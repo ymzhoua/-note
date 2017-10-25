@@ -9,5 +9,5 @@ git remote -v 查看当前目录的git仓库地址
 
 1.Git配置多账号登录不同项目，。
   1: 删除全局用户，2.进入指定的项目目录下， 执行命令，指定不同的密码，
-git config user.name "faker.zhou@aeasycredit.com"
-git config user.email "faker.zhou@aeasycredit.com"
+git config user.name "faker.zhou@xxxx.com"
+git config user.email "faker.zhou@xxx.com"
