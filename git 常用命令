@@ -1,0 +1,13 @@
+git clone https://github.com/ymzhoua/hello-world.git 从git上clone一个项目
+git status         查看当前目录下文件状态，是否提交git
+git add hello_world.php 增加文件到暂存区
+git commit -m "Add hello world script by php" 提交文件到本地仓库
+git push push到远程仓库
+git log 查看git日志
+git remote -v 查看当前目录的git仓库地址
+
+
+1.Git配置多账号登录不同项目，。
+  1: 删除全局用户，2.进入指定的项目目录下， 执行命令，指定不同的密码，
+git config user.name "faker.zhou@aeasycredit.com"
+git config user.email "faker.zhou@aeasycredit.com"
