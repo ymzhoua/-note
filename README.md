@@ -1,7 +1,8 @@
-# note
-记事本
 
 # git 常用命令
+```
+git 常用命令
+```
 
 # switchyomega备份
 ```
